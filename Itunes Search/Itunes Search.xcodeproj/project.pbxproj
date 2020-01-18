@@ -16,6 +16,7 @@
 		114E688023D29C0F00D261E9 /* SearchResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = 114E687F23D29C0F00D261E9 /* SearchResult.swift */; };
 		114E688223D29F3C00D261E9 /* ResultType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 114E688123D29F3C00D261E9 /* ResultType.swift */; };
 		114E688423D29F7A00D261E9 /* SearchResultController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 114E688323D29F7A00D261E9 /* SearchResultController.swift */; };
+		114E688823D2B26600D261E9 /* SearchResultsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 114E688723D2B26600D261E9 /* SearchResultsTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		114E687F23D29C0F00D261E9 /* SearchResult.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResult.swift; sourceTree = "<group>"; };
 		114E688123D29F3C00D261E9 /* ResultType.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultType.swift; sourceTree = "<group>"; };
 		114E688323D29F7A00D261E9 /* SearchResultController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultController.swift; sourceTree = "<group>"; };
+		114E688723D2B26600D261E9 /* SearchResultsTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchResultsTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -87,6 +89,7 @@
 		114E687923D2987700D261E9 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				114E688723D2B26600D261E9 /* SearchResultsTableViewController.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -182,6 +185,7 @@
 			files = (
 				114E688223D29F3C00D261E9 /* ResultType.swift in Sources */,
 				114E686523D2985A00D261E9 /* AppDelegate.swift in Sources */,
+				114E688823D2B26600D261E9 /* SearchResultsTableViewController.swift in Sources */,
 				114E688023D29C0F00D261E9 /* SearchResult.swift in Sources */,
 				114E686723D2985A00D261E9 /* SceneDelegate.swift in Sources */,
 				114E688423D29F7A00D261E9 /* SearchResultController.swift in Sources */,
